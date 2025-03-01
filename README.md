@@ -1,6 +1,6 @@
 # A simple recipe page
 
-![Full page image](assets/recipe-page-example.png)
+![Full page image](/src/public/assets/recipe-page-example.png)
 
 ## Prerequisites
  - NodeJS 
